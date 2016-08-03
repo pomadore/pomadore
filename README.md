@@ -1,0 +1,2 @@
+# pomadore
+Based on the already existing Strict Workflow, Pomadore does not allow the user to change the amount of time to study/break due to strict Pomodoro rules. Additionally, one major change from Strict Workflow is that the switch from work to break to work and so on happens automatically, so that a person can't take a break forever. Every 30 minutes (AKA one round), the user must click the extension icon to restart the round. In order to use this extension, clone it and run it in google extensions in developer mode.
